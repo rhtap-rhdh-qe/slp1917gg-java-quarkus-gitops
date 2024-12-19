@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: slp1917gg-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/slp1917gg-java-quarkus
